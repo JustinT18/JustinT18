@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JustinT18
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on CS50
-- 📫 How to reach me justin.tse@delasalle.ca
+- 📫 How to reach me jtse036@uottawa.ca
 
 ![image](https://user-images.githubusercontent.com/90924137/189943364-09ffd5bd-9b16-42f0-8f62-27ff83e1a6fb.png)
 - Lechonk
